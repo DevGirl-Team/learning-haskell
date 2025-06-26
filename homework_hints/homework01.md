@@ -9,7 +9,7 @@ reverse :: [a] -> [a]
 
 # Exercise 1
 
-`toDigits` can be implemented in term of toDigitsRev (and is easier to do like that).
+`toDigits` can be implemented in term of `toDigitsRev` (and is easier to do like that).
 
 **Bonus**: implement `toDigits` in a way that does not involve reversing the output list.
 
@@ -24,7 +24,6 @@ doubleEveryOtherLeftToRight :: [Integer] -> [Integer]
 
 doubleEveryOther l = _E -- an expression using doubleEveryOtherLeftToRight
 ```
-
 
 **Bonus**: implement `doubleEveryOther` in a way that does not involve reversing a list
 
